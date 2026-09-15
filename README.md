@@ -10,6 +10,3 @@
 
 <div align=“center”>
 
-[gunslol](https://guns.lol/cewolz)    <span>${\textsf{\color{#80bf00}}}$</span>  [ata](https://prreli.atabook.org/)    <span>${\textsf{\color{#00a3bf}}}$</span>
-
- <div align=“center”>
