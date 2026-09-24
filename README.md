@@ -1,9 +1,5 @@
 <p align="center">
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=⠀⠀redeemed⠀sinners⠀⠀&color=bebcb6" alt="prreli" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rzet10iunecv0h8dphj7fxtml&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
 </p>
-
-<div align="center">
-
-<img width="1423" height="1088" alt="image" src="https://github.com/user-attachments/assets/84eadd2e-90b3-4187-a8a5-2f7448f41071" />
